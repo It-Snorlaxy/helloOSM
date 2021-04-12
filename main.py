@@ -26,3 +26,4 @@ class MapApp(App):
 
 if __name__ in ('__main__', '__android__'):
     MapApp().run()
+#hello
